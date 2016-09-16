@@ -1,0 +1,12 @@
+li {
+    font-size: large;
+}
+
+div.panel-heading {
+   font-size: x-large; 
+}
+.panel-primary > .panel-heading {
+    color: #fff;
+    background-color: #89b651;
+    border-color: #89b651;
+}
